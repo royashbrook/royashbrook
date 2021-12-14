@@ -12,10 +12,12 @@
 [<img alt="Azure" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />]()
 [<img alt="Microsoft SQL Server" height="50px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />]()
 [<img alt="CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor" />]()
+[<img alt="Office365" height="48" width="48" src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/office_48x1.svg"/>]()
 [<img alt="Svelte" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />]()
 [<img alt="Javascript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />]()
 [<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor" />]()
 [<img alt="github" src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor" />]()
+
 <!-- <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor" /> -->
 
 <!-- ### Things I have used in the past:
