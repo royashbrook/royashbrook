@@ -18,9 +18,6 @@
 [<img alt="github" src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor" />]()
 <!-- <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor" /> -->
 
-
-<br />
-
 <!-- ### Things I have used in the past:
 
 <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor" />
@@ -43,15 +40,9 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/royashbrook)   -->
 
-<br />
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=royashbrook)  
 
-<br />
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=royashbrook)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 [website]: https://ashbrook.io
 [twitter]: https://twitter.com/royashbrook
