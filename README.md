@@ -9,15 +9,15 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/royashbrook)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashbrook.io)  
 
-<img alt="Visual Studio Code" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="Powershell" height="50px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/7dc4587014bfa22919c933607bf564f0ba53db2e/assets/powershell_128.svg" />
-<img alt="Azure" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img alt="Microsoft SQL Server" height="50px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor" />
-<img alt="Svelte" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor" />
+[<img alt="Visual Studio Code" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />]()
+[<img alt="Powershell" height="50px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/7dc4587014bfa22919c933607bf564f0ba53db2e/assets/powershell_128.svg" />]()
+[<img alt="Azure" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />]()
+[<img alt="Microsoft SQL Server" height="50px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />]()
+[<img alt="CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor" />]()
+[<img alt="Svelte" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />]()
+[<img alt="Javascript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />]()
+[<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor" />]()
+[<img alt="github" src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor" />]()
 <!-- <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor" /> -->
 
 
