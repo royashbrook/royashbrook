@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=ashbrook.io&style=for-the-badge&url=https%3A%2F%2Fashbrook.io)](https://ashbrook.io)
+[![Website](https://img.shields.io/website?label=royashbrook.com&style=for-the-badge&url=https%3A%2F%2Froyashbrook.com)](https://royashbrook.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/royashbrook?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froyashbrook&screen_name=royashbrook)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royashbrook)
