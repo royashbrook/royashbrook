@@ -1,51 +1,47 @@
-[![Website](https://img.shields.io/website?label=royashbrook.com&style=for-the-badge&url=https%3A%2F%2Froyashbrook.com)](https://royashbrook.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/royashbrook?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froyashbrook&screen_name=royashbrook)
+### roy ashbrook
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royashbrook)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/royashbrook/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/royashbrook)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/royashbrook)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashbrook.io)  
+dad, hub, coder, tech fan. automating since the 1900s.
 
-[<img alt="Visual Studio Code" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />]()
-[<img alt="Powershell" height="50px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/7dc4587014bfa22919c933607bf564f0ba53db2e/assets/powershell_128.svg" />]()
-[<img alt="Azure" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />]()
-[<img alt="Microsoft SQL Server" height="50px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />]()
-[<img alt="CSharp" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor" />]()
-[<img alt="Office365" height="48" width="48" src="https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/office_48x1.svg"/>]()
-[<img alt="Svelte" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />]()
-[<img alt="Javascript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />]()
-[<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor" />]()
-[<img alt="github" src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor" />]()
+i build small, useful things, lately a lot of them for ai agents to use. most of it's open.
 
-<!-- <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor" /> -->
+[![royashbrook.com](https://img.shields.io/badge/royashbrook.com-111?style=flat-square&logo=astro&logoColor=white)](https://royashbrook.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royashbrook/)
+[![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/royashbrook)
 
-<!-- ### Things I have used in the past:
+---
 
-<img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/atom-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/jquery-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
-<img src="https://icongr.am/devicon/drupal-original.svg?size=50&color=currentColor" />
+#### things i've built
 
+**[blame.today](https://blame.today)** , an anonymous public blame board on nostr. no account, every vote is a throwaway key.
+[![site](https://img.shields.io/website?url=https%3A%2F%2Fblame.today&style=flat-square&label=site&up_message=up&down_message=down)](https://blame.today)
+[![deploy](https://img.shields.io/github/actions/workflow/status/blame-today/blame-web/deploy-web.yml?branch=main&style=flat-square&label=deploy)](https://github.com/blame-today/blame-web/actions/workflows/deploy-web.yml)
 
-<br /><br /> -->
+**[lifescored.com](https://lifescored.com)** , the hidden scores institutions already put on you, rebuilt in the open, every rule shown with its citation.
+[![site](https://img.shields.io/website?url=https%3A%2F%2Flifescored.com&style=flat-square&label=site&up_message=up&down_message=down)](https://lifescored.com)
+[![deploy](https://img.shields.io/github/actions/workflow/status/royashbrook/lifescored/deploy.yml?branch=main&style=flat-square&label=deploy)](https://github.com/royashbrook/lifescored/actions/workflows/deploy.yml)
+[![license](https://img.shields.io/github/license/royashbrook/lifescored?style=flat-square)](https://github.com/royashbrook/lifescored/blob/main/LICENSE)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=royashbrook&show_icons=true&count_private=true)  
+**[hush](https://github.com/royashbrook/hush)** , a secret store for ai agents with one hard rule: the agent never sees the plaintext.
+[![tests](https://img.shields.io/github/actions/workflow/status/royashbrook/hush/test.yml?branch=main&style=flat-square&label=tests)](https://github.com/royashbrook/hush/actions/workflows/test.yml)
+[![license](https://img.shields.io/github/license/royashbrook/hush?style=flat-square)](https://github.com/royashbrook/hush/blob/main/LICENSE)
 
-<!-- <br />
+**[sql-spider](https://github.com/royashbrook/sql-spider)** , builds a deterministic, closed dependency graph of any sql database by emitting read-only queries.
+[![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/sql-spider/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/sql-spider/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/royashbrook/sql-spider?style=flat-square)](https://github.com/royashbrook/sql-spider/blob/main/LICENSE)
 
-![GitHub metrics](https://metrics.lecoq.io/royashbrook)   -->
+more, including the agent skills + mcps, at **[royashbrook.com/projects](https://royashbrook.com/projects)**.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=royashbrook)  
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=royashbrook)](https://github.com/ryo-ma/github-profile-trophy)
+#### stack
 
-[website]: https://ashbrook.io
-[twitter]: https://twitter.com/royashbrook
-[linkedin]: https://linkedin.com/in/royashbrook
+`svelte` · `typescript` · `c#` · `powershell` · `sql server` · `azure` · `cloudflare`
+
+![github stats](https://github-readme-stats.vercel.app/api?username=royashbrook&show_icons=true&count_private=true&hide_border=true&bg_color=00000000)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royashbrook/royashbrook/output/github-snake-dark.svg" />
+  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/royashbrook/royashbrook/output/github-snake.svg" />
+</picture>
