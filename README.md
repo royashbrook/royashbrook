@@ -29,6 +29,10 @@ i build small, useful things, lately a lot of them for ai agents to use. most of
 [![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/sql-spider/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/sql-spider/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/royashbrook/sql-spider?style=flat-square)](https://github.com/royashbrook/sql-spider/blob/main/LICENSE)
 
+**[trustmebro](https://github.com/royashbrook/trustmebro)** , adds verified citation links to your markdown/html posts so a reader can check every claim, and it never rewrites your prose.
+[![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/trustmebro/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/trustmebro/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/royashbrook/trustmebro?style=flat-square)](https://github.com/royashbrook/trustmebro/blob/main/LICENSE)
+
 more, including the agent skills + mcps, at **[royashbrook.com/projects](https://royashbrook.com/projects)**.
 
 ---
