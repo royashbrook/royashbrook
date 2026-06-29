@@ -24,9 +24,7 @@ more, including the agent skills + mcps, at **[royashbrook.com/projects](https:/
 
 #### stack
 
-`svelte` · `typescript` · `c#` · `powershell` · `sql server` · `azure` · `cloudflare`
-
-![github stats](https://github-readme-stats.vercel.app/api?username=royashbrook&show_icons=true&count_private=true&hide_border=true&bg_color=00000000)
+`powershell` · `svelte` · `java/typescript` · `c#` ·  · `sql server` · `azure` · `cloudflare`
 
 ---
 
