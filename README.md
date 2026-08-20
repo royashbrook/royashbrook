@@ -17,14 +17,25 @@ i build small, useful things, lately a lot of them for ai agents to use. most of
 - **[hush](https://github.com/royashbrook/hush)** - a secret store for ai agents with one hard rule: the agent never sees the plaintext. [![tests](https://img.shields.io/github/actions/workflow/status/royashbrook/hush/test.yml?branch=main&style=flat-square&label=tests)](https://github.com/royashbrook/hush/actions/workflows/test.yml)
 - **[sql-spider](https://github.com/royashbrook/sql-spider)** - builds a deterministic, closed dependency graph of any sql database by emitting read-only queries. [![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/sql-spider/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/sql-spider/actions/workflows/ci.yml)
 - **[trustmebro](https://github.com/royashbrook/trustmebro)** - adds verified citation links to your markdown/html posts so a reader can check every claim, and it never rewrites your prose. [![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/trustmebro/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/trustmebro/actions/workflows/ci.yml)
+- **[motor-fuel-tax-formats](https://github.com/royashbrook/motor-fuel-tax-formats)** - powershell formatters that turn a flat record set into a us state motor-fuel tax filing file, seven states, with no database, network, or credentials in the module. [![psgallery](https://img.shields.io/powershellgallery/v/MotorFuelTaxFormats?style=flat-square&label=psgallery)](https://www.powershellgallery.com/packages/MotorFuelTaxFormats)
 
 more, including the agent skills + mcps, at **[royashbrook.com/projects](https://royashbrook.com/projects)**.
 
 ---
 
+#### games
+
+free browser games for kids: no ads, no lives, no timers, nothing to buy, no tracking. each installs to a phone and plays offline.
+
+[quarry](https://quarry.royashbrook.com) · [scoopaloo](https://scoopaloo.royashbrook.com) · [sort it](https://sortit.royashbrook.com) · [shoot it](https://shootit.royashbrook.com) · [craft rush](https://craftrush.royashbrook.com) · [quantamari](https://quantamari.royashbrook.com)
+
+more at **[royashbrook.com/games](https://royashbrook.com/games)**.
+
+---
+
 #### stack
 
-`powershell` · `svelte` · `java/typescript` · `c#` ·  · `sql server` · `azure` · `cloudflare`
+`powershell` · `svelte` · `java/typescript` · `c#` · `sql server` · `azure` · `cloudflare`
 
 ---
 
