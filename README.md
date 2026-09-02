@@ -19,7 +19,15 @@ i build small, useful things, lately a lot of them for ai agents to use. most of
 - **[trustmebro](https://github.com/royashbrook/trustmebro)** - adds verified citation links to your markdown/html posts so a reader can check every claim, and it never rewrites your prose. [![ci](https://img.shields.io/github/actions/workflow/status/royashbrook/trustmebro/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/royashbrook/trustmebro/actions/workflows/ci.yml)
 - **[motor-fuel-tax-formats](https://github.com/royashbrook/motor-fuel-tax-formats)** - powershell formatters that turn a flat record set into a us state motor-fuel tax filing file, seven states, with no database, network, or credentials in the module. [![psgallery](https://img.shields.io/powershellgallery/v/MotorFuelTaxFormats?style=flat-square&label=psgallery)](https://www.powershellgallery.com/packages/MotorFuelTaxFormats)
 
-more, including the agent skills + mcps, at **[royashbrook.com/projects](https://royashbrook.com/projects)**.
+more at **[royashbrook.com/projects](https://royashbrook.com/projects)**. the rest of my powershell modules live on the **[gallery profile](https://www.powershellgallery.com/profiles/royashbrook)**.
+
+---
+
+#### skills for ai agents
+
+drop-in skills, each with an mcp endpoint: [doorbell](https://github.com/royashbrook/doorbell) · [hush](https://github.com/royashbrook/hush) · [sql-spider](https://github.com/royashbrook/sql-spider) · [trustmebro](https://github.com/royashbrook/trustmebro) · [waterbear](https://github.com/royashbrook/waterbear) · [lifescored](https://github.com/royashbrook/lifescored/blob/main/skills/lifescored/SKILL.md) · [blame-bot](https://blame.today/agents/blame-bot.skill.md) · [mtok-market](https://github.com/mtok-market/mcp)
+
+the canonical list with descriptions and endpoints is **[royashbrook.com/skills](https://royashbrook.com/skills)**.
 
 ---
 
@@ -27,7 +35,7 @@ more, including the agent skills + mcps, at **[royashbrook.com/projects](https:/
 
 free browser games for kids: no ads, no lives, no timers, nothing to buy, no tracking. each installs to a phone and plays offline.
 
-[quarry](https://quarry.royashbrook.com) · [scoopaloo](https://scoopaloo.royashbrook.com) · [sort it](https://sortit.royashbrook.com) · [shoot it](https://shootit.royashbrook.com) · [craft rush](https://craftrush.royashbrook.com) · [quantamari](https://quantamari.royashbrook.com)
+[quarry](https://quarry.royashbrook.com) · [scoopaloo](https://scoopaloo.royashbrook.com) · [sort it](https://sortit.royashbrook.com) · [shoot it](https://shootit.royashbrook.com) · [craft rush](https://craftrush.royashbrook.com) · [jumpit](https://jumpit.royashbrook.com) · [quantamari](https://quantamari.royashbrook.com)
 
 more at **[royashbrook.com/games](https://royashbrook.com/games)**.
 
